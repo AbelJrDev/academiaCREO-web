@@ -412,6 +412,15 @@ tr:hover {
     color: white;
 }
 
+/* Título de la sección de contacto en blanco */
+.contact .section-title h2 {
+    color: white;
+}
+
+.contact .section-title h2::after {
+    background: linear-gradient(to right, white, rgba(255, 255, 255, 0.7));
+}
+
 .contact-container {
     display: flex;
     gap: 40px;
