@@ -28,12 +28,12 @@ const quickQuestions = document.querySelectorAll('.quick-question');
 // Bot responses
 const botResponses = {
     "hola": "¡Hola! 😊 ¿En qué puedo ayudarte hoy?",
-    "horarios": "Nuestros horarios son de lunes a viernes de 4:00 PM a 8:00 PM y sábados de 9:00 AM a 1:00 PM. También ofrecemos horarios personalizados según tu disponibilidad.",
-    "precios": "Tenemos diferentes planes: Básico (S/180), Estándar (S/320) y Premium (S/450). ¿Te gustaría saber más detalles de cada plan?",
-    "inscripcion": "Para inscribirte puedes visitar nuestra sede en Av. Los Educadores 123, San Miguel, o enviarnos un WhatsApp al +51 987 654 321. También puedes llenar el formulario de contacto en nuestra página.",
-    "pagos": "Aceptamos transferencias bancarias, Yape/Plin, efectivo y tarjetas de crédito/débito. ¿Necesitas información sobre algún método en particular?",
+    "horarios": "Nuestros horarios son de lunes a viernes de X:00 PM a X:00 PM y sábado y domingo de X:00 AM a X:00 PM. También ofrecemos horarios personalizados según tu disponibilidad.",
+    "precios": "Tenemos diferentes planes: Ciclo de Repaso (S/XXX), Ciclo de Verano (S/XXX) y Ciclo Especial: Ingreso Mundo Mejor (S/XXX). ¿Te gustaría saber más detalles de cada plan?",
+    "inscripcion": "Para inscribirte puedes visitar nuestra sede en Jr. 9 de Octubre Mz G2 Lt 15, Miraflores Alto, Chimbote, o enviarnos un WhatsApp al +51 942 961 962. También puedes llenar el formulario de contacto en nuestra página.",
+    "pagos": "Aceptamos transferencias bancarias, Yape/Plin y efectivo. ¿Necesitas información sobre algún método en particular?",
     "gracias": "¡De nada! 😊 Si tienes más preguntas, no dudes en consultarme.",
-    "default": "Si deseas más información, te recomiendo comunicarte directamente con nosotros por WhatsApp: https://wa.me/51987654321 o llamar al (01) 456-7890."
+    "default": "Si deseas más información, te recomiendo comunicarte directamente con nosotros por WhatsApp: https://wa.me/942961962 o llamar al (XX) XXX-XXXX."
 };
 
 // Add message to chat
